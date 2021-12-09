@@ -10,6 +10,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
+![image](https://user-images.githubusercontent.com/83102597/145468159-e4707eca-cba2-42d6-b096-7c4aca9d7c4f.png)
+
 * Use `sample_values` as the values for the bar chart.
 
 * Use `otu_ids` as the labels for the bar chart.
@@ -18,6 +20,9 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 
 3. Create a bubble chart that displays each sample.
+
+![image](https://user-images.githubusercontent.com/83102597/145468117-6967352c-b10e-447f-9c61-50b2e3a9fcdf.png)
+
 
 * Use `otu_ids` for the x values.
 
@@ -31,13 +36,11 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 
 4. Display the sample metadata, i.e., an individual's demographic information.
+![image](https://user-images.githubusercontent.com/83102597/145468203-1848d282-e01e-4849-9ca0-2b3f45bfa79d.png)
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-
 6. Update all of the plots any time that a new sample is selected.
-
-Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 
 
 ## Deployment
